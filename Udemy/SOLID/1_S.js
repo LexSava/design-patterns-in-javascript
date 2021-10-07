@@ -1,3 +1,5 @@
+//Single responsibility
+
 const fs = require("fs");
 
 class Journal {
