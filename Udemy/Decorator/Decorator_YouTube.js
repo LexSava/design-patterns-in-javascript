@@ -48,9 +48,7 @@ class Tesla extends Car {
   }
 }
 
-
 let tesla = new Tesla();
 tesla = new Autopilot(tesla);
-
 
 console.log(tesla.getPrice(), tesla.getDescription());
